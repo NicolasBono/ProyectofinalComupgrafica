@@ -1,0 +1,4 @@
+glcontext==3.1.0
+moderngl==5.13.0
+pyglet==2.1.19
+pyglm==2.8.3
